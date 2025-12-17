@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Jersey+25&size=40&duration=2000&pause=500&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Welcome+to+my+profile!;Check+out+the+pinned+repos%3A;SDR-RPC%2C+rpc-bridge+%26+Fennix;I+write+in+C%2C+C%2B%2B%2C+C%23+%26+Assembly;Aight%2C+that's+all.;%2F%2F+EnderIce2" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Jersey+25&size=40&duration=2000&pause=500&center=true&vCenter=true&repeat=false&random=false&width=500&lines=Welcome+to+my+profile!;Check+out+the+pinned+repos%3A;SDR-RPC%2C+rpc-bridge+%26+Fennix;I+write+in+C%2C+C%2B%2B%2C+C%23+%26+Assembly;Aight%2C+that's+all.;%2F%2F+enderice2" alt="Typing SVG" /></a>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EnderIce2&hide_progress=false&layout=compact&theme=dark"
