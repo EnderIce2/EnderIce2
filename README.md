@@ -19,7 +19,7 @@
 </picture>
 
 <h2>Support my work</h2>
-<p>If you find any of my work useful, you’re welcome to leave a tip to support me.</p>
+<p>If you find any of my work useful, you're welcome to leave a tip to support me.</p>
 <a href="https://ko-fi.com/enderice2"><img src="https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg" style="width:42px;height:42px;"></a>
 <a href="https://liberapay.com/enderice2"><img src="https://github.githubassets.com/assets/liberapay-48108ded7267.svg" style="width:42px;height:42px;"></a>
 <a href="https://buymeacoffee.com/enderice2"><img src="https://github.githubassets.com/assets/buy_me_a_coffee-63ed78263f6e.svg" style="width:42px;height:42px;"></a>
